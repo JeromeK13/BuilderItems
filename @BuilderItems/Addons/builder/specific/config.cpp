@@ -534,4 +534,4 @@ class CfgVehicles
 		scope=1;
 		model="\DZ\structures\specific\statues\proxy\t34.p3d";
 	};
-}
+};
